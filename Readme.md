@@ -15,7 +15,7 @@ https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/blob/main/Superstore_
 
 ## 📂 Files  
 - `Superstore_dashboard.pbix` - Power BI dashboard  
-- `superstore.xlsx` - Sales dataset 
+- `Superstore.xlsx` - Sales dataset 
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file.  
