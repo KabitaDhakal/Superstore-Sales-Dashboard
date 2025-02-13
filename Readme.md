@@ -11,11 +11,11 @@ An interactive Power BI dashboard for analyzing Superstore sales trends, profita
 - **Techniques:** Data cleaning, ETL, data visualization, DAX calculations  
 
 ## 📷 Screenshots  
-![Dashboard Preview](link_to_screenshot)  
+https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/blob/main/Superstore_dashboard.jpg
 
 ## 📂 Files  
 - `Superstore_dashboard.pbix` - Power BI dashboard  
-- `dataset.csv` - Sales dataset (if applicable)  
+- `superstore.xlsx` - Sales dataset 
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file.  
