@@ -14,8 +14,9 @@ An interactive Power BI dashboard for analyzing Superstore sales trends, profita
 https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/blob/main/Superstore_dashboard.jpg
 
 ## 📂 Files  
-📥 [Download Superstore Dashboard (.pbix)](https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/raw/main/Superstore_dashboard.pbix)
-📥 [Download Dataset (.xlsx)](https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/raw/main/Superstore.xlsx)
+📥 [Superstore Dashboard (.pbix)](https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/raw/main/Superstore_dashboard.pbix)
+
+📥 [Dataset (.xlsx)](https://github.com/KabitaDhakal/Superstore-Sales-Dashboard/raw/main/Superstore.xlsx)
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file.  
